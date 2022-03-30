@@ -1,0 +1,110 @@
+body {
+  background-color: hsl(217, 54%, 11%);
+  text-align: left;
+  margin: auto;
+  font-family: "Outfit", sans-serif;
+}
+.main-container {
+  align-items: center;
+  margin: 100px auto;
+
+  border-style: hidden;
+  width: 400px;
+  height: 720px;
+  background-color: hsl(216, 50%, 16%);
+  border-radius: 16px;
+  -webkit-box-shadow: -2px -1px 15px 7px rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: -3px -2px 30px 14px rgba(0, 0, 0, 0.425);
+  box-shadow: -4px -3px 45px 21px rgba(0, 0, 0, 0.35);
+}
+.nft-img {
+  width: 350px;
+  height: 330px;
+  margin: 25px 25px 15px;
+  border-radius: 16px;
+}
+h1 {
+    letter-spacing: 2px;
+  font-size: 28px;
+  margin: 15px 25px;
+  color: white;
+  font-weight: 400;
+}
+.details {
+  letter-spacing: 2px;
+  text-align: left;
+  margin: 30px 25px;
+  color: hsl(215, 51%, 70%);
+  font-size: 18px;
+  font-weight: 300;
+  width: 80%;
+}
+
+.eth{
+    float: left;
+    margin-right: 10px;
+    margin-left: 25px;
+    margin-top: 16px;
+}
+.time{
+
+    float: left;
+    margin-right: 10px;
+    margin-left: 275px;
+    margin-top: 16px;
+    
+    
+}
+.eth-text{
+    display: inline-block;
+    color: hsl(178, 100%, 50%);
+    font-family: "Outfit", sans-serif;
+    font-weight:bold;
+    letter-spacing: 1px;
+    
+}
+.time-text{
+    display: inline-block;
+   color: hsl(215, 51%, 70%);
+   font-family: "Outfit", sans-serif;
+   font-weight: 300;
+
+    
+}
+.eth-container{
+    position:absolute;
+}
+hr{
+    width: 87%;
+    margin: 30px auto;
+    background-color: none;
+    border-color: rgb(146, 146, 146);
+   
+    
+}
+.profile-pic{
+    width: 45px;
+    border-radius: 100%;
+   margin-left: 25px;
+   margin-right: 20px;
+   float: left;
+    
+}
+.footer-text{
+    
+    padding-top: 14px;
+    color: hsl(215, 51%, 70%);
+    font-weight: 400;
+    letter-spacing: 2px;
+   
+}
+a{
+    color: rgb(133, 133, 133);
+    font-weight: 500;
+    letter-spacing: 2px;
+}
+
+
+
+
+
