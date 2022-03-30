@@ -88,6 +88,8 @@ hr{
    margin-left: 25px;
    margin-right: 20px;
    float: left;
+  border-style: solid;
+  border-color: white;
     
 }
 .footer-text{
