@@ -89,7 +89,8 @@ hr{
    margin-right: 20px;
    float: left;
   border-style: solid;
-  border-color: white;
+  border-color: rgb(146, 146, 146);
+  border-width: 3px;
     
 }
 .footer-text{
@@ -105,8 +106,5 @@ a{
     font-weight: 500;
     letter-spacing: 2px;
 }
-
-
-
 
 
